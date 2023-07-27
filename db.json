@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "author": "John Doe",
+      "title": "Introduction to Angular",
+      "content": "Angular is a popular framework for building web applications. It uses TypeScript and follows the component-based architecture."
+    },
+    {
+      "id": 2,
+      "author": "Jane Smith",
+      "title": "Getting Started with React",
+      "content": "React is a JavaScript library for building user interfaces. It is known for its simplicity and efficiency in handling UI updates."
+    },
+    {
+      "id": 3,
+      "author": "Bob Johnson",
+      "title": "Deep Learning and Neural Networks",
+      "content": "Deep learning is a subset of machine learning that uses artificial neural networks to model and solve complex problems."
+    },
+    {
+      "id": 4,
+      "author": "Alice Williams",
+      "title": "Introduction to Python",
+      "content": "Python is a versatile programming language with a simple syntax, making it an excellent choice for beginners and experienced developers alike."
+    },
+    {
+      "id": 5,
+      "author": "Mark Anderson",
+      "title": "The Power of Data Visualization",
+      "content": "Data visualization is the representation of information and data through visual elements such as charts, graphs, and maps."
+    },
+    {
+      "id": 6,
+      "author": "andrei",
+      "title": "haha yes",
+      "content": "place la connatix"
+    },
+    {
+      "id": 7,
+      "author": "Emily Johnson",
+      "title": "The Importance of User Experience (UX) Design",
+      "content": "User Experience (UX) design is crucial in creating successful digital products. It focuses on understanding users' needs, behaviors, and pain points to design intuitive and enjoyable experiences."
+    },
+    {
+      "id": 8,
+      "author": "testing",
+      "title": "testing stuff",
+      "content": "Integer vitae euismod enim. Morbi tempus leo sed lacus ullamcorper, in sagittis quam finibus. Aenean pulvinar vel nunc in bibendum. Donec pellentesque ex dignissim dolor bibendum vestibulum. Ut congue urna ipsum, in sollicitudin justo tempus quis. Cras volutpat tincidunt est, placerat dignissim magna cursus quis. Curabitur ornare orci ligula, quis ornare metus dignissim ut. Nulla vel condimentum nibh. Vestibulum suscipit, lorem eu dapibus auctor, tellus mi tristique libero, non tempus massa nisi in arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut ornare vitae lacus a imperdiet. Integer tempor urna ac gravida malesuada. Integer in dolor aliquam, porttitor lorem sed, faucibus sem. Cras eu tempus nibh. Phasellus elementum ipsum a eros tempor condimentum.In sit amet blandit dui. Pellentesque euismod, risus molestie pretium imperdiet, nunc nisl vehicula mi, eget laoreet sem nisi non lectus. Vestibulum nec sapien elit. Nam justo velit, sodales id pharetra in, porta quis purus. Sed libero nunc, mattis sit amet imperdiet at, sagittis quis felis. Maecenas sem sapien, hendrerit sed gravida auctor, auctor nec augue. Fusce eget turpis nulla. Sed a iaculis lacus."
+    },
+    {
+      "id": 9,
+      "author": "whatever",
+      "title": "whatever",
+      "content": "lal lalalala"
+    },
+    {
+      "id": 10,
+      "author": "andrei",
+      "title": "test markup",
+      "content": "<h1> Hei there </h1>\n<h2> Not hei there </h2>"
+    }
+  ]
+}

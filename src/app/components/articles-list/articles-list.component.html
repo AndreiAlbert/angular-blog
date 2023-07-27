@@ -1,0 +1,7 @@
+<div class="articles-list">
+  <div class="article-item" *ngFor="let article of articles">
+    <h3 class="article-title">{{ article.title }}</h3>
+    <p class="article-author">By: {{ article.author }}</p>
+    <button class="read-more-button" [routerLink]="['/articles', article.id]">Read More</button>
+  </div>
+</div>

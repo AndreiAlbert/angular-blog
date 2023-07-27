@@ -1,0 +1,19 @@
+/* src/app/article-view/article-view.component.css */
+.article {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 600px;
+  margin: 20px auto;
+}
+
+.article h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.article p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}

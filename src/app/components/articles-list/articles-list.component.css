@@ -1,0 +1,41 @@
+/* src/app/article-list/article-list.component.css */
+.articles-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.article-item {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.article-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+.article-author {
+  font-size: 16px;
+  color: #555;
+}
+
+.read-more-button {
+  display: block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #007bff;
+  cursor: pointer;
+}
+
+.read-more-button:hover {
+  background-color: #0056b3;
+}

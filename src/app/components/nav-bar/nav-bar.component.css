@@ -1,0 +1,28 @@
+.navbar {
+  background-color: #007bff;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-buttons a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 4px;
+}
+
+.nav-buttons a:hover {
+  background-color: #0056b3; /* Same hover color for both buttons (#0056b3) */
+  transition: background-color 0.2s ease;
+}
+
+.nav-buttons a:active {
+  background-color: #0056b3; /* Same active link color for both buttons */
+  font-weight: bold;
+}
