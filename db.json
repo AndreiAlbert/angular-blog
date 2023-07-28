@@ -59,6 +59,12 @@
       "author": "andrei",
       "title": "test markup",
       "content": "<h1> Hei there </h1>\n<h2> Not hei there </h2>"
+    },
+    {
+      "id": 11,
+      "author": "andrei",
+      "title": "testing redirect",
+      "content": ""
     }
   ]
 }
